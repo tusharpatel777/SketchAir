@@ -1,0 +1,5 @@
+{
+  "name": "AirDraw AI - Virtual Drawing Board",
+  "description": "An AI-powered drawing board that uses your hand gestures and finger tracking to draw in the air via webcam.",
+  "requestFramePermissions": ["camera", "microphone"]
+}
